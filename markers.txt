@@ -1,0 +1,15 @@
+Name,Lat,Long,IconLink
+Connex,-32.73773,151.12705,/static/new/images/Q-Store.png
+RHQ (0A),-32.73619,151.126391,/static/new/images/HQ.png
+NL Oakley,-32.75265,151.15327,/static/new/images/1NL.png
+Echelon Bravo (0B),-32.78521,151.21307,/static/new/images/HQ.png
+High Ropes Course,-33.743415,151.107988,/static/new/images/engi.png
+Engineers Excersise,-32.73210,151.13153,/static/new/images/engi.png
+Pioneers Excersise,-32.73110,151.13441,/static/new/images/engi.png
+NL Waratah,-32.73819,151.21819,/static/new/images/1NL.png
+NL Comms Tower,-32.76503,151.21724,/static/new/images/1NL.png
+NL Crossroads,-32.72294,151.15551,/static/new/images/1NL.png
+NL Hammer,-32.73655,151.13240,/static/new/images/1NL.png
+NL Broke,-32.74041,151.12592,/static/new/images/1NL.png
+Comms Tower,-32.76335,151.22291,/static/new/images/commstower.png
+High Ropes Course,-32.78308,151.20852,/static/new/images/engi.png
